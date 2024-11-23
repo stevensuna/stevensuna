@@ -8,7 +8,7 @@ I'm a passionate **Entrepreneur** with experience in **Linux System Administrato
 - 🔭 Working on: **TechEd**
 - 🌍 Languages: **English, Vietnamese**
 - 📫 How to reach me: **you know how to find me**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I'm an Ironman 70.3 finisher!**
 
 ## My Skills 🧠
 
