@@ -2,13 +2,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Entrepreneur** with experience in **Linux System Administrator and Cyber Security**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Entrepreneur** and tech enthusiast with experience in **Linux System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
 
 - 🌱 Currently learning: **Machine Learning**
 - 🔭 Working on: **TechEd**
 - 🌍 Languages: **English, Vietnamese**
 - 📫 How to reach me: **you know how to find me**
-- ⚡ Fun fact: **I'm an Ironman 70.3 finisher!**
+- ⚡ Fun fact: **I'm an Ironman 70.3 finisher!**  🏊‍♂️🚴‍♂️🏃‍♂️
 
 ## My Skills 🧠
 
