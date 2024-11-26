@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Entrepreneur** and tech enthusiast with experience in **Linux System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
+I'm a passionate **Entrepreneur** and tech enthusiast with experience in **System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
 
 - 🌱 Currently learning: **Machine Learning**
 - 🔭 Working on: **TechEd**
