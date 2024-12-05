@@ -4,7 +4,7 @@
 
 I'm a passionate **Entrepreneur** and tech enthusiast with experience in **System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
 
-- 🌱 Currently learning: **Machine Learning**
+- 🌱 Currently learning: **Full-stack Web Development**
 - 🔭 Working on: **TechEd**
 - 🌍 Languages: **English, Vietnamese**
 - 📫 How to reach me: **you know how to find me**
