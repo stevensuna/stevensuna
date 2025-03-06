@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Entrepreneur** and tech enthusiast with experience in **System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
+I'm a tech enthusiast with experience in **System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
 
 - 🌱 Currently learning: **Full-stack Web Development**
 - 🔭 Working on: **TechEd**
