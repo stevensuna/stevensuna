@@ -1,20 +1,13 @@
-# Hi there, I'm Steven! 👋
+# Steven
 
-## About Me 🚀
+Web application penetration testing and WordPress incident response.
 
-I'm a tech enthusiast with experience in **System Administrator and Cyber Security**. I thrive on challenges and enjoy collaborating to create innovative solutions.
+I test web applications and APIs the way an attacker would, and every finding in my reports is proven with a real request and response. I also clean and harden hacked WordPress sites, and I reverse engineer Android applications and network protocols.
 
-- 🌱 Currently learning: **Full-stack Web Development**
-- 🔭 Working on: **TechEd**
-- 🌍 Languages: **English, Vietnamese**
-- 📫 How to reach me: **you know how to find me**
-- ⚡ Fun fact: **I'm an Ironman 70.3 finisher!**  🏊‍♂️🚴‍♂️🏃‍♂️
+Day to day I work with Kali Linux, nuclei, sqlmap, Frida, and IDA Pro.
 
-## My Skills 🧠
+I have run a web hosting and infrastructure business in Ho Chi Minh City since 2014. The security testing work comes out of operating the same kinds of systems I test.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+You can hire me through [Upwork](https://www.upwork.com/freelancers/~017a7b807e5f6690e8). My company site is [irontan.com](https://irontan.com).
+
+Away from the keyboard, I'm an Ironman 70.3 finisher.
