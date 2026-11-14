@@ -1,5 +1,3 @@
-# Steven
-
 Web application penetration testing and WordPress incident response.
 
 I test web applications and APIs the way an attacker would, and every finding in my reports is proven with a real request and response. I also clean and harden hacked WordPress sites, and I reverse engineer Android applications and network protocols.
